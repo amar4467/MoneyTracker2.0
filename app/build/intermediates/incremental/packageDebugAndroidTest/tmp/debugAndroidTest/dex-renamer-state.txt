@@ -1,0 +1,4 @@
+#Sun Sep 27 21:26:29 IST 2026
+base.0=A\:\\Amar\\college\\intern and projects\\moneytracker-Chatgpt\\Native Android app\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

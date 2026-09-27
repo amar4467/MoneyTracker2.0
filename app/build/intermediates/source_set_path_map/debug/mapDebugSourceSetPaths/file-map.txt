@@ -1,0 +1,51 @@
+com.amar.moneytracker.app-pngs-0 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\generated\res\pngs\debug
+com.amar.moneytracker.app-resValues-1 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\generated\res\resValues\debug
+com.amar.moneytracker.app-updated_navigation_xml-2 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\generated\updated_navigation_xml\debug
+com.amar.moneytracker.app-packageDebugResources-3 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.amar.moneytracker.app-packageDebugResources-4 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.amar.moneytracker.app-debug-5 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.amar.moneytracker.app-debug-6 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\src\debug\res
+com.amar.moneytracker.app-main-7 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\src\main\res
+com.amar.moneytracker.app-runtime-release-8 C:\Users\amare\.gradle\caches\8.13\transforms\05e6085ce2e43f9abfb4bc9db5db48d9\transformed\runtime-release\res
+com.amar.moneytracker.app-activity-1.10.0-9 C:\Users\amare\.gradle\caches\8.13\transforms\0a5c627e2f634b9cfb3db7b18f97b537\transformed\activity-1.10.0\res
+com.amar.moneytracker.app-activity-ktx-1.10.0-10 C:\Users\amare\.gradle\caches\8.13\transforms\21895daf8caa97265e6ffd67576f9bb5\transformed\activity-ktx-1.10.0\res
+com.amar.moneytracker.app-core-ktx-1.15.0-11 C:\Users\amare\.gradle\caches\8.13\transforms\22c665dd1d22ba3c8048b00fc0dd14f4\transformed\core-ktx-1.15.0\res
+com.amar.moneytracker.app-ui-geometry-release-12 C:\Users\amare\.gradle\caches\8.13\transforms\25e97fd31919387fe80a5df0f2348c54\transformed\ui-geometry-release\res
+com.amar.moneytracker.app-savedstate-ktx-1.2.1-13 C:\Users\amare\.gradle\caches\8.13\transforms\2612c435b3eb052921b1249a5bc82db9\transformed\savedstate-ktx-1.2.1\res
+com.amar.moneytracker.app-ui-release-14 C:\Users\amare\.gradle\caches\8.13\transforms\26b2c1533f807f8b8cfb9da7836a4709\transformed\ui-release\res
+com.amar.moneytracker.app-animation-core-release-15 C:\Users\amare\.gradle\caches\8.13\transforms\28cea8e34d8670c71ec37f6e83d6a6cc\transformed\animation-core-release\res
+com.amar.moneytracker.app-profileinstaller-1.4.0-16 C:\Users\amare\.gradle\caches\8.13\transforms\2ce688cb2fdbfd6b3d9296f0ede7ded1\transformed\profileinstaller-1.4.0\res
+com.amar.moneytracker.app-ui-graphics-release-17 C:\Users\amare\.gradle\caches\8.13\transforms\34e5fada5e9eb199a1e3ebb2c5a29ae8\transformed\ui-graphics-release\res
+com.amar.moneytracker.app-runtime-saveable-release-18 C:\Users\amare\.gradle\caches\8.13\transforms\3eac7a5acf27315da61e6d0ae635911c\transformed\runtime-saveable-release\res
+com.amar.moneytracker.app-material-ripple-release-19 C:\Users\amare\.gradle\caches\8.13\transforms\410e6a54b9b4489af13e37bc235c83b7\transformed\material-ripple-release\res
+com.amar.moneytracker.app-lifecycle-viewmodel-ktx-2.8.3-20 C:\Users\amare\.gradle\caches\8.13\transforms\4c957bb7aae928c471fd9067a85f1cba\transformed\lifecycle-viewmodel-ktx-2.8.3\res
+com.amar.moneytracker.app-activity-compose-1.10.0-21 C:\Users\amare\.gradle\caches\8.13\transforms\53bedb1b3b3f976c0a55cd17c2598458\transformed\activity-compose-1.10.0\res
+com.amar.moneytracker.app-lifecycle-process-2.8.3-22 C:\Users\amare\.gradle\caches\8.13\transforms\5b86a6496af44f1759248f0d867ef47b\transformed\lifecycle-process-2.8.3\res
+com.amar.moneytracker.app-ui-tooling-release-23 C:\Users\amare\.gradle\caches\8.13\transforms\60892d523154c9ba861d8459a1b584de\transformed\ui-tooling-release\res
+com.amar.moneytracker.app-lifecycle-livedata-core-2.8.3-24 C:\Users\amare\.gradle\caches\8.13\transforms\61120d506472470e83216c51465b4a2c\transformed\lifecycle-livedata-core-2.8.3\res
+com.amar.moneytracker.app-foundation-release-25 C:\Users\amare\.gradle\caches\8.13\transforms\639c5275f2608ccd2b5fed9d6c1ed7ea\transformed\foundation-release\res
+com.amar.moneytracker.app-savedstate-1.2.1-26 C:\Users\amare\.gradle\caches\8.13\transforms\63a35c606b06ed3449476d0392eff176\transformed\savedstate-1.2.1\res
+com.amar.moneytracker.app-core-1.15.0-27 C:\Users\amare\.gradle\caches\8.13\transforms\6555f5f6ad1ad4df7958c93509b8b001\transformed\core-1.15.0\res
+com.amar.moneytracker.app-lifecycle-viewmodel-release-28 C:\Users\amare\.gradle\caches\8.13\transforms\68636f07ae2003c4b11f5977f7087342\transformed\lifecycle-viewmodel-release\res
+com.amar.moneytracker.app-material3-release-29 C:\Users\amare\.gradle\caches\8.13\transforms\6ef0a1b8955e47d5416287ea345d4dd5\transformed\material3-release\res
+com.amar.moneytracker.app-lifecycle-viewmodel-savedstate-2.8.3-30 C:\Users\amare\.gradle\caches\8.13\transforms\73847351ec272b6546b71378d792b98d\transformed\lifecycle-viewmodel-savedstate-2.8.3\res
+com.amar.moneytracker.app-annotation-experimental-1.4.1-31 C:\Users\amare\.gradle\caches\8.13\transforms\78599ef9667eff0802123cee004b7312\transformed\annotation-experimental-1.4.1\res
+com.amar.moneytracker.app-customview-poolingcontainer-1.0.0-32 C:\Users\amare\.gradle\caches\8.13\transforms\7c325c35aac17b3c9f3897b6b330dbfe\transformed\customview-poolingcontainer-1.0.0\res
+com.amar.moneytracker.app-tracing-1.2.0-33 C:\Users\amare\.gradle\caches\8.13\transforms\86dfbeba5446f1ac7cfaef8df508f453\transformed\tracing-1.2.0\res
+com.amar.moneytracker.app-material-icons-core-release-34 C:\Users\amare\.gradle\caches\8.13\transforms\88ac66a8ee6b965c120d0cccc6deae48\transformed\material-icons-core-release\res
+com.amar.moneytracker.app-material-icons-extended-release-35 C:\Users\amare\.gradle\caches\8.13\transforms\89ef144d7e91183516976eb10b396c61\transformed\material-icons-extended-release\res
+com.amar.moneytracker.app-ui-unit-release-36 C:\Users\amare\.gradle\caches\8.13\transforms\aa14de22bf9d55fcc7fe717621517caf\transformed\ui-unit-release\res
+com.amar.moneytracker.app-foundation-layout-release-37 C:\Users\amare\.gradle\caches\8.13\transforms\af2d140338f689283cd2800340ca3e37\transformed\foundation-layout-release\res
+com.amar.moneytracker.app-ui-text-release-38 C:\Users\amare\.gradle\caches\8.13\transforms\b614511bd87bd1cb90b37e21fe5d9323\transformed\ui-text-release\res
+com.amar.moneytracker.app-ui-util-release-39 C:\Users\amare\.gradle\caches\8.13\transforms\c0c2bfc623feff30f797fa313550b7f1\transformed\ui-util-release\res
+com.amar.moneytracker.app-lifecycle-runtime-ktx-release-40 C:\Users\amare\.gradle\caches\8.13\transforms\c6a41f3ac333a84c7d937b2090e2f92b\transformed\lifecycle-runtime-ktx-release\res
+com.amar.moneytracker.app-lifecycle-runtime-compose-release-41 C:\Users\amare\.gradle\caches\8.13\transforms\c9255fac34e87aa5442e45265747db0a\transformed\lifecycle-runtime-compose-release\res
+com.amar.moneytracker.app-lifecycle-runtime-release-42 C:\Users\amare\.gradle\caches\8.13\transforms\cbd1b63479cef95f32aa497ac2e2a80f\transformed\lifecycle-runtime-release\res
+com.amar.moneytracker.app-graphics-path-1.0.1-43 C:\Users\amare\.gradle\caches\8.13\transforms\cbdea2e66fd9b42f82de6c92c8542ccb\transformed\graphics-path-1.0.1\res
+com.amar.moneytracker.app-ui-tooling-preview-release-44 C:\Users\amare\.gradle\caches\8.13\transforms\de4faaf6353d15761eea03a735129a0c\transformed\ui-tooling-preview-release\res
+com.amar.moneytracker.app-ui-tooling-data-release-45 C:\Users\amare\.gradle\caches\8.13\transforms\eab092c1146f1c1c04cf0f0c0cbcc5ce\transformed\ui-tooling-data-release\res
+com.amar.moneytracker.app-startup-runtime-1.1.1-46 C:\Users\amare\.gradle\caches\8.13\transforms\eea3e261e5c0dab178157406ba10a055\transformed\startup-runtime-1.1.1\res
+com.amar.moneytracker.app-material-release-47 C:\Users\amare\.gradle\caches\8.13\transforms\f3ed40fffdecd51204c83ff03677beb2\transformed\material-release\res
+com.amar.moneytracker.app-core-runtime-2.2.0-48 C:\Users\amare\.gradle\caches\8.13\transforms\f9ea09dee8e0610fa1e642fb9bb059e4\transformed\core-runtime-2.2.0\res
+com.amar.moneytracker.app-animation-release-49 C:\Users\amare\.gradle\caches\8.13\transforms\fa0f436f9a4f5f2d08e5e1bafcbbc1b3\transformed\animation-release\res
+com.amar.moneytracker.app-emoji2-1.3.0-50 C:\Users\amare\.gradle\caches\8.13\transforms\feff4c422da439bef8d91341d7080f43\transformed\emoji2-1.3.0\res

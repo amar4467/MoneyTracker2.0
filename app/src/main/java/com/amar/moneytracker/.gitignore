@@ -1,0 +1,5 @@
+.gradle/
+.codex-gradle-cache/
+build/
+local.properties
+.idea/

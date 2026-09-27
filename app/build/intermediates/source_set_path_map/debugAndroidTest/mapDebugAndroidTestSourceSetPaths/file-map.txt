@@ -1,0 +1,5 @@
+com.amar.moneytracker.test.app-androidTest-0 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\generated\res\resValues\androidTest\debug
+com.amar.moneytracker.test.app-updated_navigation_xml-1 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.amar.moneytracker.test.app-mergeDebugAndroidTestResources-2 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.amar.moneytracker.test.app-mergeDebugAndroidTestResources-3 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.amar.moneytracker.test.app-debugAndroidTest-4 A:\Amar\college\intern and projects\moneytracker-Chatgpt\Native Android app\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
